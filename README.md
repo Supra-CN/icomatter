@@ -20,7 +20,7 @@ $ tree
 $ icomatter.sh logo.png
 
 # output
-supra@Garage:/tmp/test$ tree
+$ tree
 .
 ├── logo.png
 └── logo.png.output
@@ -42,7 +42,7 @@ supra@Garage:/tmp/test$ tree
 
 # exec with more params
 $ icomatter.sh logo.png ic_logo.png mipmap out
-supra@Garage:/tmp/test$ tree
+$ tree
 .
 ├── logo.png
 └── out
