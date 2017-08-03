@@ -1,7 +1,7 @@
 # icomatter
 icon formatter, a smart shell script for easy convert png icon to android res in different dpi size
 
-# usage
+## usage
 ```sh
 # get the icomatter script
 $ wget https://github.com/Supra-CN/icomatter/blob/master/icomatter.sh
@@ -11,7 +11,7 @@ $ chmod +x icomatter.sh
 $ icomatter.sh ${src_file} [${dest_name} [${type_name} [${output_dir}]]]
 ```
 
-# sample
+## sample
 ```sh
 # this is a src logo png file
 $ tree
