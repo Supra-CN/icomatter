@@ -3,6 +3,11 @@ icon formatter, a smart shell script for easy convert png icon to android res in
 
 # usage
 ```sh
+# get the icomatter script
+$ wget https://github.com/Supra-CN/icomatter/blob/master/icomatter.sh
+# chande mode for execut
+$ chmod +x icomatter.sh
+# execute
 $ icomatter.sh ${src_file} [${dest_name} [${type_name} [${output_dir}]]]
 ```
 
@@ -60,5 +65,4 @@ $ tree
         └── ic_logo.png
 
 7 directories, 7 files
-
 ```
